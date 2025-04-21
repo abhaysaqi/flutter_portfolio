@@ -1,16 +1,44 @@
-# portfolio
+# 🚀 Flutter Portfolio App (Mobile + Web)
 
-A new Flutter project.
+A responsive and elegant **Portfolio App** made with **Flutter**, supporting both **Mobile** and **Web** platforms with **Dark/Light theme toggle**.
 
-## Getting Started
+![Demo](assets/demo/demo.gif) <!-- Replace with actual demo GIF path -->
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Responsive UI for Mobile & Web  
+- Dark / Light Theme Support  
+- Showcases:
+  - Name & Position  
+  - Skills  
+  - Projects  
+  - Education  
+  - Contact Info  
+  - Social Media Links  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Tech Stack
+
+- Flutter & Dart  
+- =Provider (state management)    
+- Responsive Layout  
+- Platform Adaptive Design  
+
+---
+
+## 📦 Getting Started
+
+### 1. Clone Repo using following command
+```bash
+git clone https://github.com/abhaysaqi/flutter_portfolio.git
+```
+
+### 2. Clean Build and install dependecies and run app using following command
+```bash
+flutter clean
+flutter pub get
+flutter run
+```
