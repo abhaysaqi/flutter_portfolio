@@ -6,13 +6,13 @@ class SampleData {
   static Portfolio getPortfolioData() {
     return Portfolio(
       personalInfo: PersonalInfo(
-        name: 'Alex Morgan',
+        name: 'Abhay Kumar',
         tagline: 'Senior Software Engineer & UI/UX Enthusiast',
         profileImageUrl: "https://pixabay.com/get/g9bfda3bf4ef771aba4df4accfcf40ecfa55bfa0ebf17fe57689af670e7494698c23ff670d614791164c226bd5df46c80ee82c7754538db1a26cf17f6d3db13a9_1280.jpg",
         bio: 'Passionate software engineer with 6+ years of experience creating innovative web and mobile solutions. Specializing in Flutter, React, and cloud architecture with a focus on creating elegant user experiences that solve real-world problems.',
-        email: 'alex.morgan@example.com',
-        phone: '+1 (555) 123-4567',
-        location: 'San Francisco, CA',
+        email: 'abhaysaqi9@gmail.com',
+        phone: '+91 9056121323',
+        location: 'Jalandhar, Punjab',
         areasOfExpertise: [
           'Mobile App Development',
           'UI/UX Design',
@@ -69,7 +69,7 @@ class SampleData {
           technologies: ['Flutter', 'Firebase', 'Google Fit API', 'Apple HealthKit'],
           imageUrl: "https://pixabay.com/get/g6482dd43f37abcfcc09f5e0914f6d970baf6f782a3a8e62fcd87c9804323752f00ce160b6b004c535e0cf8d9a41a74b082e3d2e862d7d4380a1b677deb44717b_1280.jpg",
           projectUrl: 'https://healthtrackpro.example.com',
-          githubUrl: 'https://github.com/alexmorgan/healthtrackpro',
+          githubUrl: '',
         ),
         ProjectItem(
           title: 'EcoRoute',
@@ -77,7 +77,7 @@ class SampleData {
           technologies: ['Flutter', 'Google Maps API', 'TensorFlow Lite', 'SQLite'],
           imageUrl: "https://pixabay.com/get/g3c418b30098aff0bee5321f858a4a74a72e4cda4412942333345af8692b37db9745cf275885de38c272dad3645af4f71dd33105879480a9001fedc2dfc5694f8_1280.jpg",
           projectUrl: 'https://ecoroute.example.com',
-          githubUrl: 'https://github.com/alexmorgan/ecoroute',
+          githubUrl: '',
         ),
         ProjectItem(
           title: 'TaskFlow',
@@ -85,7 +85,7 @@ class SampleData {
           technologies: ['React', 'Node.js', 'MongoDB', 'Socket.io'],
           imageUrl: "https://pixabay.com/get/g870c3c1f0485f2fe0e6c2f78bb457c9e3735bdfe8414bbcec6885dd85c5775f4b0d600ef8d700008316962c41e91ccb0bda0a21d01a63b71cb3d06db20756445_1280.jpg",
           projectUrl: 'https://taskflow.example.com',
-          githubUrl: 'https://github.com/alexmorgan/taskflow',
+          githubUrl: '',
         ),
         ProjectItem(
           title: 'CryptoInsight',
@@ -93,7 +93,7 @@ class SampleData {
           technologies: ['Flutter', 'CoinGecko API', 'WebSockets', 'Hive DB'],
           imageUrl: "https://pixabay.com/get/g90d1ef907768884513e49c20d78062234823bf06c6bc20a8af88fe7503c1e1d99eea46f7fef0dff0ef9fa5aefca4d98cd0efcf166a7793d031d5bb6acb348f9a_1280.jpg",
           projectUrl: 'https://cryptoinsight.example.com',
-          githubUrl: 'https://github.com/alexmorgan/cryptoinsight',
+          githubUrl: '',
         ),
       ],
       skills: [

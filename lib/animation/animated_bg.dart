@@ -5,8 +5,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 class AnimatedBackground extends StatefulWidget {
   final bool isDarkMode;
 
-  const AnimatedBackground({Key? key, required this.isDarkMode}) : super(key: key);
-
+  const AnimatedBackground({super.key, required this.isDarkMode});
   @override
   State<AnimatedBackground> createState() => _AnimatedBackgroundState();
 }
