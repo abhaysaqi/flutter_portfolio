@@ -2,7 +2,7 @@
 
 A responsive and elegant **Portfolio App** made with **Flutter**, supporting both **Mobile** and **Web** platforms with **Dark/Light theme toggle**.
 
-![Demo](assets/demo/demo.gif) <!-- Replace with actual demo GIF path -->
+![Demo](https://github.com/abhaysaqi/flutter_portfolio/blob/main/demo.gif) <!-- Replace with actual demo GIF path -->
 
 ---
 
